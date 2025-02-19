@@ -12,5 +12,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ### Resim
-![resim](s-55258f48615fb6a65824fc148c82306eadfca90d.jpg)
+![resim](Ekran görüntüsü 2025-02-19 131715.png)
 
