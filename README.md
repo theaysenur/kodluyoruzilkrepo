@@ -13,7 +13,7 @@ Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bi
 * Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın. GIT komutları için [GitHub GIT Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)'i kullanabilirsiniz.
 * Repoyu bilgisayarımıza aldıktan sonra içine README.md adında bir Markdown dosya oluşturun.
 * Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
-![ekran görüntüsü2](.\images\resim3-md.png)
+![ekran görüntüsü2](images/resim3-md.png)
 Detaylı bakmak için [ Örnek Readme Dosyası](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md)nı inceleyebilirsiniz.
 * Markdown dosyanızın içine projemizin bir resmini koyun.
 * Repomuzun içine bir adet index.html dosyası oluşturun.
